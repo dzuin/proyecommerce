@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/dzuin/proyecommerce-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dzuin/proyecommerce-frontend.git
